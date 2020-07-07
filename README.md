@@ -1,5 +1,5 @@
 # BMI Calculator
-BMI Calculator IOS App 👨‍
+BMI Calculator IOS App 👨‍⚕️
 
 ## Screenshots
 
